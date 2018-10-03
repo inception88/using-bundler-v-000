@@ -4,7 +4,7 @@ gem "sinatra", '1.4.4'
 gem "hashie"
 gem "octokit", '~> 2.0'
 
-source "httpshttps://github.com/awesome-print/awesome_printgithub.com/rubygems"
+source "https://github.com/awesome-print/awesome_printgithub.com/rubygems"
 gem "awesome_print" 
  
 group :development do
